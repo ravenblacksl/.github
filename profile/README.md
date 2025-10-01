@@ -13,7 +13,7 @@ Aktuell haben wir einen normalen SCP:SL Server:
 Zusätzlich haben wir eigene Gamemodes und Spielarten, die es so in SCP:SL so noch nie gegeben hat für noch mehr Abwechslung und Spaß:
 
 - **Prophunt in SCP:SL** – Bekannter Spielmodus aus Garry's Mod in SCPSL
-- **KourIO in SCP:SL** – Discord Pixel Shooter in *SCP:SL* *(in Arbeit)-*
+- **KourIO in SCP:SL** – Discord Pixel Shooter in *SCP:SL* *(in Arbeit)*
 
 Hier hören wir nicht auf.
 Sag uns, welche Spiele oder Gamemodes du dir in SCP:SL wünschst. Deine Ideen machen SCP:SL wieder einzigartig. Damit unterstützt du nicht nur uns, sondern auch die deutsche SCP:SL Community.
